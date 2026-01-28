@@ -1,4 +1,4 @@
-import tkinter as tk1
+import tkinter as tk2
 
 class Calculator(tk.Tk):
     def __init__(self):
